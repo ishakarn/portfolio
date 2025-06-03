@@ -1,5 +1,3 @@
-# Isha Karn – Portfolio
-
 ## 🎓 Education  
 **M.S. in Computer Science** (GPA: 3.8) 
 University of Massachusetts Amherst  
