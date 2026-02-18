@@ -63,11 +63,10 @@ Link: [arXiv](https://arxiv.org/abs/2512.06638)
 - Owned harness: scaffold-balanced splits, reproducible seeds, checkpointing, sweep execution, calibration/error analysis.
 
 ## 📄 Resume / CV
-[CV:](https://drive.google.com/file/d/1pUdz-BBJjaXevOQebpbGb4wCXmY5IRIE/view?usp=drive_link)
+[CV](https://drive.google.com/file/d/1pUdz-BBJjaXevOQebpbGb4wCXmY5IRIE/view?usp=drive_link)
 
 ## 🔗 Connect with Me  
 - [Email](ikarn@umass.edu)
 - [Website](https://ishakarn.github.io/portfolio)
 - [LinkedIn](https://www.linkedin.com/in/isha-karn)  
 - [GitHub](https://github.com/ishakarn)
-
