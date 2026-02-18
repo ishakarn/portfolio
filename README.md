@@ -12,7 +12,9 @@ Vellore Institute of Technology, Chennai
 (Expected May 2026)
 
 ## 🧠 About Me  
-I’m an incoming PhD student in Computer Science at UMass Amherst working on interpretable and trustworthy machine learning, with a focus on graph learning and evaluation via controlled interventions/ablations. I also work on molecular property prediction with graph-based models.
+I’m an incoming PhD student in Computer Science at UMass Amherst working on interpretable and trustworthy machine learning, with a focus on graph learning and evaluation via controlled interventions/ablations. I also work on molecular property prediction with graph-based models. 
+
+In my free time, I love to play video games and paint (need to do that more often though).
 
 ## 🔬 Research Interests  
 - Trustworthy / Interpretable ML
@@ -61,6 +63,7 @@ Link: [arXiv](https://arxiv.org/abs/2512.06638)
 - Owned harness: scaffold-balanced splits, reproducible seeds, checkpointing, sweep execution, calibration/error analysis.
 
 ## 📄 Resume / CV
+[CV:](https://drive.google.com/file/d/1pUdz-BBJjaXevOQebpbGb4wCXmY5IRIE/view?usp=drive_link)
 
 ## 🔗 Connect with Me  
 - [Email](ikarn@umass.edu)
