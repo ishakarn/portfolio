@@ -9,7 +9,7 @@ University of Massachusetts Amherst
 
 **B.Tech. in Computer Science and Engineering** (GPA: 3.65) 
 Vellore Institute of Technology, Chennai
-(Expected May 2026)
+(May 2024)
 
 ## 🧠 About Me  
 I’m an incoming PhD student in Computer Science at UMass Amherst working on interpretable and trustworthy machine learning, with a focus on graph learning and evaluation via controlled interventions/ablations. I also work on molecular property prediction with graph-based models. 
@@ -28,11 +28,20 @@ In my free time, I love to play video games and paint (need to do that more ofte
 - Unified 10-fold stratified CV harness with per-epoch logs, learning curves, and confidence intervals across Baseline GNN models (GCN/GAT/GraphSAGE/GIN) and structure agnostic baseline (MLP).
 - Analysis spans over 6 datasets across domains (social + molecular benchmarks).
 
+### Causal Reasoning Benchmarking for LLMs (June 2025 - Present)
+- Investigating CLADDER-style causal reasoning evaluations by applying small, targeted **interventions** to causal queries (e.g., polarity flips, variable/value swaps, distractor injections) to test whether model behavior is robust to changes that preserve causal structure.
+- Built an end-to-end pipeline for intervention generation, automated scoring, and visualization, enabling large-scale comparison across multiple LLMs and intervention types.
+
+### FactCurriculum - Adaptive Verifiable Factual Training to Reduce Hallucinations in LLMs (Jan 2026 - Present)
+- Building RLVE-inspired environments to automatically verify "games" for factual knowledge.
+- Fine-tuning Baseline and SFT open-source LLMS.
+
+
 ## 🧾 Publications and Manuscripts
 ### (Accepted at JCIM 2026) MycoPermeNet-v2: Improved Prediction of Mycomembrane Permeation via Feature Fusion and Noisy Student Self-Distillation.
 Link: (Under Construction)
 
-### (Preprint - 2025) The Impact of Data Characteristics on GNN Evaluation for Detecting Fake News
+### (Preprint, 2025) The Impact of Data Characteristics on GNN Evaluation for Detecting Fake News
 Link: [arXiv](https://arxiv.org/abs/2512.06638)
 
 ### (ICONAT 2023) Disseminating the Process of Hurricane Path Prediction using Multilayer Perceptron and Support Vector Machine upon Varied Kernel Functions
@@ -48,10 +57,6 @@ Link: [arXiv](https://arxiv.org/abs/2512.06638)
 - Developed analysis + visualization tooling (robustness profiles, deltas by intervention type, confusion matrices/error taxonomies) and a version-controlled, CI-backed pipeline for reproducible reporting.
 
 ## 🚀 Selected Projects
-### Causal Reasoning Benchmarking for LLMs (S4AIG)
-- Investigating CLADDER-style causal reasoning evaluations by applying small, targeted **interventions** to causal queries (e.g., polarity flips, variable/value swaps, distractor injections) to test whether model behavior is robust to changes that preserve causal structure.
-- Built an end-to-end pipeline for intervention generation, automated scoring, and visualization, enabling large-scale comparison across multiple LLMs and intervention types.
-
 ### Evaluating the Role of Graph Structure in Fake News Detection
 - Investigated whether Graph Neural Networks (GNNs) genuinely leverage structural information in benchmark fake news datasets.
 - Replicated the UPFD framework and implemented GAT, GCN, and MLP models using PyTorch Geometric; performed controlled ablation to isolate structural vs. feature contributions.
