@@ -31,7 +31,7 @@ I’m an incoming PhD student in Computer Science at UMass Amherst working on in
 Link: (Under Construction)
 
 ### (Preprint - 2025) The Impact of Data Characteristics on GNN Evaluation for Detecting Fake News
-Link: [arXiv] https://arxiv.org/abs/2512.06638
+Link: [arXiv](https://arxiv.org/abs/2512.06638)
 
 ### (ICONAT 2023) Disseminating the Process of Hurricane Path Prediction using Multilayer Perceptron and Support Vector Machine upon Varied Kernel Functions
 [DOI: 10.1109/ICONAT57137.2023.10080280](https://doi.org/10.1109/ICONAT57137.2023.10080280)
